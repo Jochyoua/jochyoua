@@ -4,4 +4,6 @@ My name is Joshua and I am a Java developer who mainly develops with the Spigot 
 
 Visit my SpigotMC.org account: https://www.spigotmc.org/members/366870/
 
-![Metrics](https://metrics.lecoq.io/Jochyoua?template=classic&introduction=1&languages=1&people=1&languages.colors=github&languages.threshold=0%25&introduction.title=false&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=true&config.timezone=America%2FChicago)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Jochyoua&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jochyoua&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
