@@ -11,4 +11,7 @@ If you need anything creaed don't be afraid to ask, I enjoy making simple projec
 * SpigotMC: https://www.spigotmc.org/members/jochyoua.366870/
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
