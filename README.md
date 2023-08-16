@@ -1,14 +1,35 @@
-#### Jochyoua's Github page
-***
-My name is Joshua and I am currently working on a few SpigotMC API projects. \
-You can find more about these projects here: https://jochyoua.github.io \
-I mainly develop in PHP and Java but I have some experience with JS and subsequent languages. \
-If you need anything created don't be afraid to ask, I enjoy making simple projects but I expect pay if they are more difficult.
-***
-##### Get in touch
-* Site: https://jochyoua.github.io
-* Email: Jochyoua@gmail.com
-* SpigotMC: https://www.spigotmc.org/members/jochyoua.366870/
+# Hi there 👋
+
+I'm Jochyoua, a passionate developer who loves creating plugins for Minecraft servers.
+
+## 🔭 I’m currently working on ...
+
+> - [OfflineCommands](https://github.com/Jochyoua/OfflineCommands/releases), a spigot plugin that executes commands for specific players when they join the server.
+> - Some other awesome project that I haven't revealed yet.
+
+## 🌱 I’m currently learning ...
+
+> - How to use React to build modern web applications.
+> - How to improve my Java skills and write clean and efficient code.
+
+## 💬 Ask me about ...
+
+> - Anything related to Minecraft plugins or Spigot API.
+> - My favorite programming languages and tools.
+> - My hobbies and interests outside of coding.
+
+## 📫 How to reach me ...
+
+> - Email: jochyoua@fairy.land
+> - Discord: 5568
+
+## 📈 My GitHub stats ...
+<a href="https://github.com/Jochyoua">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jochyoua&show_icons=true&theme=radical" />
+</a> <a href="https://github.com/Jochyoua">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jochyoua&layout=compact&theme=radical" />
+</a>
+
 
 <!--START_SECTION:waka-->
 ```text
