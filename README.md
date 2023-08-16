@@ -20,7 +20,7 @@ I'm Jochyoua, a passionate developer who loves creating plugins for Minecraft se
 
 ## 📫 How to reach me ...
 
-> - Email: jochyoua@fairy.land
+> - Email: jochyoua@gmail.com
 > - Discord: 5568
 
 ## 📈 My GitHub stats ...
