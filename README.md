@@ -5,6 +5,7 @@ I'm Jochyoua, a passionate developer who loves creating plugins for Minecraft se
 ## 🔭 I’m currently working on ...
 
 > - [OfflineCommands](https://github.com/Jochyoua/OfflineCommands/releases), a spigot plugin that executes commands for specific players when they join the server.
+> - [PhantomBan](https://github.com/Jochyoua/PhantomBan/releases), a spigot plugin that allows banned users to connect to your server.
 > - Some other awesome project that I haven't revealed yet.
 
 ## 🌱 I’m currently learning ...
